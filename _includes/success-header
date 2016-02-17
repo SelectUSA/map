@@ -1,0 +1,292 @@
+<!-- scrollToTop -->
+		<!-- ================ -->
+		<div class="scrollToTop"><i class="fa fa-chevron-up fa-6"></i></div>
+
+		<!-- page wrapper start -->
+		<!-- ================ -->
+		<div class="page-wrapper">
+
+			<!-- header-top start -->
+			<!-- ================ -->
+			<div class="header-top">
+				<div class="container">
+					<div class="row">
+						<div class="col-xs-2  col-sm-6">
+
+							<!-- header-top-first start -->
+							<!-- ================ -->
+							<div class="header-top-first clearfix">
+                                <ul class="social-links clearfix hidden-xs">
+                                    <li class="twitter"><a href="http://www.twitter.com" target="_blank"><i class="fa fa-twitter"></i></a></li>
+                                    <li class="skype"><a href="http://www.skype.com" target="_blank"><i class="fa fa-skype"></i></a></li>
+                                    <li class="linkedin"><a href="http://www.linkedin.com" target="_blank"><i class="fa fa-linkedin"></i></a></li>
+                                    <li class="googleplus"><a href="http://plus.google.com" target="_blank"><i class="fa fa-google-plus"></i></a></li>
+                                    <li class="youtube"><a href="http://www.youtube.com" target="_blank"><i class="fa fa-youtube-play"></i></a></li>
+                                    <li class="flickr"><a href="http://www.flickr.com" target="_blank"><i class="fa fa-flickr"></i></a></li>
+                                    <li class="facebook"><a href="http://www.facebook.com" target="_blank"><i class="fa fa-facebook"></i></a></li>
+                                    <li class="pinterest"><a href="http://www.pinterest.com" target="_blank"><i class="fa fa-pinterest"></i></a></li>
+                                </ul>
+                                <div class="social-links hidden-lg hidden-md hidden-sm">
+                                    <div class="btn-group dropdown">
+                                        <button class="btn dropdown-toggle" data-toggle="dropdown" type="button"><i class="fa fa-share-alt"></i></button>
+                                        <ul class="dropdown-menu dropdown-animation">
+                                            <li class="twitter"><a href="http://www.twitter.com" target="_blank"><i class="fa fa-twitter"></i></a></li>
+                                            <li class="skype"><a href="http://www.skype.com" target="_blank"><i class="fa fa-skype"></i></a></li>
+                                            <li class="linkedin"><a href="http://www.linkedin.com" target="_blank"><i class="fa fa-linkedin"></i></a></li>
+                                            <li class="googleplus"><a href="http://plus.google.com" target="_blank"><i class="fa fa-google-plus"></i></a></li>
+                                            <li class="youtube"><a href="http://www.youtube.com" target="_blank"><i class="fa fa-youtube-play"></i></a></li>
+                                            <li class="flickr"><a href="http://www.flickr.com" target="_blank"><i class="fa fa-flickr"></i></a></li>
+                                            <li class="facebook"><a href="http://www.facebook.com" target="_blank"><i class="fa fa-facebook"></i></a></li>
+                                            <li class="pinterest"><a href="http://www.pinterest.com" target="_blank"><i class="fa fa-pinterest"></i></a></li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+							<!-- header-top-first end -->
+
+						</div>
+						<div class="col-xs-10 col-sm-6">
+
+							<!-- header-top-second start -->
+							<!-- ================ -->
+							<div id="header-top-second"  class="clearfix">
+
+								<!-- header top dropdowns start -->
+								<!-- ================ -->
+								<div class="header-top-dropdown">
+
+									<!--<div class="btn-group dropdown">
+										<button type="button" class="btn dropdown-toggle" data-toggle="dropdown"><i class="fa fa-user"></i> Login</button>
+										<ul class="dropdown-menu dropdown-menu-right dropdown-animation">
+											<li>
+												<form class="login-form">
+													<div class="form-group has-feedback">
+														<label class="control-label">Username</label>
+														<input type="text" class="form-control" placeholder="">
+														<i class="fa fa-user form-control-feedback"></i>
+													</div>
+													<div class="form-group has-feedback">
+														<label class="control-label">Password</label>
+														<input type="password" class="form-control" placeholder="">
+														<i class="fa fa-lock form-control-feedback"></i>
+													</div>
+													<button type="submit" class="btn btn-group btn-dark btn-sm">Log In</button>
+													<span>or</span>
+													<button type="submit" class="btn btn-group btn-default btn-sm">Register</button>
+
+													<ul>
+														<li><a href="#">Forgot your password?</a></li>
+													</ul>
+													<div class="divider"></div>
+													<span class="text-center">Login with</span>
+													<ul class="social-links clearfix">
+														<li class="facebook"><a target="_blank" href="http://www.facebook.com"><i class="fa fa-facebook"></i></a></li>
+														<li class="twitter"><a target="_blank" href="http://www.twitter.com"><i class="fa fa-twitter"></i></a></li>
+														<li class="googleplus"><a target="_blank" href="http://plus.google.com"><i class="fa fa-google-plus"></i></a></li>
+													</ul>
+												</form>
+											</li>
+										</ul>
+									</div>
+									<div class="btn-group dropdown">
+										<button type="button" class="btn dropdown-toggle" data-toggle="dropdown"><i class="fa fa-plus-square"></i> Register</button>
+
+									</div>-->
+
+								</div>
+								<!--  header top dropdowns end -->
+
+							</div>
+							<!-- header-top-second end -->
+
+						</div>
+					</div>
+				</div>
+			</div>
+			<!-- header-top end -->
+
+			<!-- header start classes:
+			================ -->
+			<header class="header fixed clearfix">
+				<div class="container">
+					<div class="row">
+						<div class="col-md-3">
+
+							<!-- header-left start -->
+							<!-- ================ -->
+							<div class="header-left clearfix">
+
+								<!-- logo -->
+								<div class="logo">
+									<a href="https://selectusademo.trade.gov/page?id=a10t0000000CbT4AAK"><img id="logo" src="{{ site.baseurl }}/images/SelectUSA-Logo-hr.png" width="250" alt="logo"></a>
+								</div>
+
+
+
+							</div>
+							<!-- header-left end -->
+
+						</div>
+						<div class="col-md-9">
+
+							<!-- header-right start -->
+							<!-- ================ -->
+							<div class="header-right clearfix">
+
+								<!-- main-navigation start -->
+								<!-- ================ -->
+								<div class="main-navigation animated">
+
+									<!-- navbar start -->
+									<!-- ================ -->
+									<nav class="navbar navbar-default" role="navigation">
+                                        <div class="containerITA-fluid">
+
+
+                                            <div class="navbar-header">
+                                                <button class="navbar-toggle" data-target="#navbar-collapse-1" data-toggle="collapse" type="button">
+                                                    <span class="sr-only">Toggle navigation</span>
+                                                    <span class="icon-bar"></span>
+                                                    <span class="icon-bar"></span>
+                                                    <span class="icon-bar"></span>
+                                                </button>
+                                            </div>
+
+
+                                            <div class="collapse navbar-collapse" id="navbar-collapse-1">
+                                                <ul class="nav navbar-nav navbar-right">
+                                                        <li class="dropdown">
+                                                            <a class="dropdown-toggle" data-toggle="dropdown" href="#">Why Invest</a>
+                                                            <ul class="dropdown-menu">
+                                                                <li>
+                                                                    <a href="https://selectusademo.trade.gov/apex/page?id=a10t0000000CbRSAA0">Industry Spotlights</a>
+                                                               </li>
+                                                            </ul>
+                                                        </li>
+                                                        <li class="dropdown mega-menu">
+                                                            <a class="dropdown-toggle" data-toggle="dropdown" href="#">How to Invest</a>
+                                                            <ul class="dropdown-menu">
+                                                                <li>
+                                                                    <div class="row">
+                                                                        <div class="col-lg-8 col-md-9">
+                                                                            <div class="row">
+                                                                                <div class="col-sm-4">
+                                                                                    <ul class="menu">
+                                                                                        <li><a href="https://selectusademo.trade.gov/apex/page?id=a10t0000000CbP2AAK"><strong>The Basics</strong></a></li>
+                                                                                            <li><a href="https://selectusademo.trade.gov/apex/page?id=a10t0000000CbP2AAK">Establishing Your Business</a></li>
+                                                                                            <li><a href="https://selectusademo.trade.gov/apex/page?id=a10t0000000CbP2AAK">Visas</a></li>
+                                                                                    </ul>
+                                                                                </div>
+                                                                                <div class="col-sm-4">
+                                                                                    <ul class="menu">
+                                                                                        <li><a href="https://selectusademo.trade.gov/apex/page?id=a10t0000000CbgmAAC"><strong>Choose Your Location</strong></a></li>
+                                                                                            <li><a href="https://selectusademo.trade.gov/apex/page?id=a10t0000000CbgmAAC">State Programs and Incentives</a></li>
+                                                                                            <li><a href="https://selectusademo.trade.gov/apex/page?id=a10t0000000CbgmAAC">Connect with State and Local Governments</a></li>
+                                                                                    </ul>
+                                                                                </div>
+                                                                                <div class="col-sm-4">
+                                                                                    <ul class="menu">
+                                                                                        <li><a href="https://selectusademo.trade.gov/apex/page?id=a10t0000000Cbh6AAC"><strong>Business Activities</strong></a></li>
+                                                                                            <li><a href="https://selectusademo.trade.gov/apex/page?id=a10t0000000Cbh6AAC">Supply Chain</a></li>
+                                                                                            <li><a href="https://selectusademo.trade.gov/apex/page?id=a10t0000000Cbh6AAC">Exporting</a></li>
+                                                                                            <li><a href="https://selectusademo.trade.gov/apex/page?id=a10t0000000Cbh6AAC">Manufacturing</a></li>
+                                                                                            <li><a href="https://selectusademo.trade.gov/apex/page?id=a10t0000000Cbh6AAC">Research</a></li>
+                                                                                            <li><a href="https://selectusademo.trade.gov/apex/page?id=a10t0000000Cbh6AAC">IP and Patents</a></li>
+                                                                                            <li><a href="https://selectusademo.trade.gov/apex/page?id=a10t0000000Cbh6AAC">Small Businesses and Startups</a></li>
+                                                                                            <li><a href="https://selectusademo.trade.gov/apex/page?id=a10t0000000Cbh6AAC">Workforce Development</a></li>
+                                                                                            <li><a href="https://selectusademo.trade.gov/apex/page?id=a10t0000000Cbh6AAC">Infrastructure</a></li>
+                                                                                            <li><a href="https://selectusademo.trade.gov/apex/page?id=a10t0000000Cbh6AAC">Environmental Integrity</a></li>
+                                                                                    </ul>
+                                                                                </div>
+                                                                            </div>
+                                                                        </div>
+                                                                    </div>
+                                                               </li>
+                                                            </ul>
+                                                        </li>
+                                                        <li class="dropdown">
+                                                            <a class="dropdown-toggle" data-toggle="dropdown" href="#">Investment Promotion</a>
+                                                            <ul class="dropdown-menu">
+                                                                <li>
+                                                               </li>
+                                                            </ul>
+                                                        </li>
+                                                        <li class="dropdown">
+                                                            <a class="dropdown-toggle" data-toggle="dropdown" href="#">Our Services</a>
+                                                            <ul class="dropdown-menu">
+                                                                <li>
+                                                               </li>
+                                                            </ul>
+                                                        </li>
+                                                        <li class="dropdown mega-menu">
+                                                            <a class="dropdown-toggle" data-toggle="dropdown" href="#">Events</a>
+                                                            <ul class="dropdown-menu">
+                                                                <li>
+                                                                    <div class="row">
+                                                                        <div class="col-lg-8 col-md-9">
+                                                                            <div class="row">
+                                                                                <div class="col-sm-4">
+                                                                                    <ul class="menu">
+                                                                                        <li><a href="https://selectusademo.trade.gov/apex/page?id=a10t0000000CbQFAA0"><strong>SelectUSA Summit</strong></a></li>
+                                                                                    </ul>
+                                                                                </div>
+                                                                            </div>
+                                                                        </div>
+                                                                    </div>
+                                                               </li>
+                                                            </ul>
+                                                        </li>
+                                                        <li class="dropdown">
+                                                            <a class="dropdown-toggle" data-toggle="dropdown" href="#">Newsroom</a>
+                                                            <ul class="dropdown-menu">
+                                                                <li>
+                                                                    <a href="https://selectusademo.trade.gov/apex/page?id=a10t0000000CbTEAA0">Press Releases</a>
+                                                                    <a href="https://selectusademo.trade.gov/apex/page?id=a10t0000000CbRDAA0">Blog</a>
+                                                                    <a href="https://selectusademo.trade.gov/apex/page?id=a10t0000000CbRIAA0">Social Media</a>
+                                                                    <a href="https://selectusademo.trade.gov/apex/page?id=a10t0000000CbRNAA0">Multimedia</a>
+                                                                    <a href="https://selectusademo.trade.gov/apex/page?id=a10t0000000CbRXAA0">Media Contact</a>
+                                                               </li>
+                                                            </ul>
+                                                        </li>
+                                                        <li class="dropdown">
+                                                            <a class="dropdown-toggle" data-toggle="dropdown" href="#">About</a>
+                                                            <ul class="dropdown-menu">
+                                                                <li>
+                                                                    <a href="https://selectusademo.trade.gov/apex/page?id=a10t0000000CbQoAAK">Leadership Bios</a>
+                                                                    <a href="https://selectusademo.trade.gov/apex/page?id=a10t0000000CbQtAAK">Global and Domestic Teams</a>
+                                                                    <a href="https://selectusademo.trade.gov/apex/page?id=a10t0000000CbQyAAK">Interagency Partners</a>
+                                                                    <a href="https://selectusademo.trade.gov/apex/page?id=a10t0000000CbQFAA0">SelectUSA Summit</a>
+                                                                    <a href="https://selectusademo.trade.gov/apex/page?id=a10t0000000CbR3AAK">FAQs</a>
+                                                                    <a href="https://selectusademo.trade.gov/apex/page?id=a10t0000000CbR8AAK">Careers and Internships</a>
+                                                                    <a href="https://selectusademo.trade.gov/_ui/core/chatter/ui/ChatterPage">Chatter</a>
+                                                               </li>
+                                                            </ul>
+                                                        </li>
+                                                        <li class="dropdown">
+                                                            <a class="dropdown-toggle" data-toggle="dropdown" href="#">Contact Us</a>
+                                                            <ul class="dropdown-menu">
+                                                                <li>
+                                                                    <a href="https://selectusademo.trade.gov/apex/page?id=a10t0000000CbTJAA0">Industry</a>
+                                                                    <a href="https://selectusademo.trade.gov/apex/page?id=a10t0000000CbTOAA0">EDOs</a>
+                                                                    <a href="https://selectusademo.trade.gov/assistance">Assistance</a>
+                                                                    <a href="https://selectusademo.trade.gov/dashboard">Dashboard</a>
+                                                               </li>
+                                                            </ul>
+                                                        </li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                    </nav>
+									<!-- navbar end -->
+
+								</div>
+								<!-- main-navigation end -->
+
+							</div>
+							<!-- header-right end -->
+
+						</div>
+					</div>
+				</div>
+			</header>
+			<!-- header end -->
