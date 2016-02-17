@@ -1,4 +1,5 @@
 name: Events
+baseurl: "/map"
 highlighter: rouge
 exclude:
   - .bundle
