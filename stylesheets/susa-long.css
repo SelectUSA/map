@@ -24,7 +24,7 @@ about etc )
 
 /* 1 Typography
 ----------------------------------------------------------------------------- */
-@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300);
 
 html {
 	height: 100%;
@@ -34,7 +34,7 @@ body {
   font-size: 16px;
   line-height: 25px;
 	color: #666666;
-	background-color: #ffffff;
+	background-color: #3c4542;
 }
 body.full-height, body.full-height .page-wrapper {
 	background-color: #fafafa;
@@ -58,9 +58,11 @@ h6 a {
 	color: #343434;
 }
 h1 {
-	font-size: 34px;
-	font-weight: 700;
-	color: #677771;
+h1 {
+	    font-size: 32px;
+    font-weight: 400;
+    margin-bottom: 20px;
+    color: #3c4542;
 }
 h2 {
 	font-size: 28px;
