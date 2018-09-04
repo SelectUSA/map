@@ -165,10 +165,10 @@ var simplemaps_usmap_mapdata = {
 	},
 	'NJ': { 
 		name: 'New Jersey',
-		description: 'New Jersey Business Action Center<br><u>www.nj.gov/state/bac/</u>',
+		description: 'Choose New Jersey<br><u>choosenj.com/</u>',
 		color: 'default',
 		hover_color: 'default',
-		url: 'http://www.nj.gov/state/bac/',
+		url: 'https://www.choosenj.com/',
 		hide: 'no',
 		inactive: 'no',
 		zoomable: 'default'
