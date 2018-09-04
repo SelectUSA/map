@@ -165,7 +165,7 @@ var simplemaps_usmap_mapdata = {
 	},
 	'NJ': { 
 		name: 'New Jersey',
-		description: 'Choose New Jersey<br><u>choosenj.com/</u>',
+		description: 'Choose New Jersey<br><u>choosenj.com</u>',
 		color: 'default',
 		hover_color: 'default',
 		url: 'https://www.choosenj.com/',
